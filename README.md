@@ -10,7 +10,7 @@ This project aims to provide a real-time sign language translation system using 
 - **Sign Language Models:** The project includes three different sign language models for American Sign Language (ASL), Indian Sign Language (ISL), and general hand gestures.
 
 ## Components
-### 1. `final_deployement.py`
+### 1. `Final_deployement.py`
    - Main script for the graphical user interface (GUI) and real-time sign language translation.
    - Utilizes the Tkinter library for GUI development.
    - Implements a webcam interface for capturing hand gestures.
