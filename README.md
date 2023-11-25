@@ -17,19 +17,19 @@ This project aims to provide a real-time sign language translation system using 
    - Allows users to choose the target language and submit their selection for translation.
    - Includes buttons to choose between ASL, ISL, and general gestures for translation.
 
-### 2. `training/asl.py`
+### 2. `Training/ASL.py`
    - Script for training the American Sign Language (ASL) model.
    - Uses TensorFlow and Keras for deep learning.
    - CNN architecture for recognizing hand gestures.
    - Data augmentation and preprocessing are applied using ImageDataGenerator.
    - The trained model is saved as `asl_model.h5`.
 
-### 3. `training/isl.ipynb`
+### 3. `Training/ISL.ipynb`
    - Script for training the Indian Sign Language (ISL) model.
    - Similar structure to ASL training script.
    - The trained model is saved as `isl_model.h5`.
 
-### 4. `training/gestures.ipynb`
+### 4. `Training/Gestures.ipynb`
    - Script for training a model to recognize general hand gestures.
    - The model can identify gestures like "Bye," "Call Me," "Dislike," "Good Job," "Good Luck," "Peace," "Praying," and "Rock On."
    - The trained model is saved as `model.h5`.
