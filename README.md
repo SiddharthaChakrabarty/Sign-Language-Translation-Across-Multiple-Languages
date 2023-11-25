@@ -34,17 +34,15 @@ This project aims to provide a real-time sign language translation system using 
    - The model can identify gestures like "Bye," "Call Me," "Dislike," "Good Job," "Good Luck," "Peace," "Praying," and "Rock On."
    - The trained model is saved as `model.h5`.
 
-### 5. `createdataset.py`
+### 5. `Training/createdataset.py`
    - Script for capturing and creating a dataset for training.
    - Uses webcam input to capture hand gestures.
    - Segments the hand region and saves images for training.
 
 ## How to Run
-1. Run `createdataset.py` to capture and create datasets for training.
-2. Run each training script (`asl.py`, `isl.ipynb`, `gestures.ipynb`) to train the corresponding models.
-3. Execute `final_deployement.py` to launch the application.
-4. Choose the target language and click "Submit" to start real-time sign language translation.
-5. Use the buttons to select the sign language model for translation.
+1. Execute `Final_deployement.py` to launch the application.
+2. Choose the target language and click "Submit" to start real-time sign language translation.
+3. Use the buttons to select the sign language model for translation.
 
 ## Dependencies
 - TensorFlow
