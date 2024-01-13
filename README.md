@@ -2,6 +2,11 @@
 
 ## Overview
 This project aims to provide a real-time sign language translation system using deep learning. The system recognizes hand gestures captured by a webcam and translates them into text, displaying the corresponding meaning in the chosen language.
+![image](https://github.com/SiddharthaChakrabarty/Sign-Language-Translation-Across-Multiple-Languages/assets/119057806/015cede5-4949-45bf-8036-583095a56274)
+![image](https://github.com/SiddharthaChakrabarty/Sign-Language-Translation-Across-Multiple-Languages/assets/119057806/16c7a978-0e0e-488c-b8f8-9d03312f5cad)
+![image](https://github.com/SiddharthaChakrabarty/Sign-Language-Translation-Across-Multiple-Languages/assets/119057806/6a9851da-3be9-4ca6-98cb-b36ce11a288d)
+![image](https://github.com/SiddharthaChakrabarty/Sign-Language-Translation-Across-Multiple-Languages/assets/119057806/6dd1cffe-ee64-44ce-a2f5-5caf94f7dbdd)
+
 
 ## Features
 - **Language Selection:** Users can choose their desired language from a list of options, including Hindi, Marathi, Gujarati, Kannada, Tamil, Telugu, Bengali, and Malayalam.
