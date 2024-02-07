@@ -5,7 +5,11 @@ This project aims to provide a real-time sign language translation system using 
 ![image](https://github.com/SiddharthaChakrabarty/Sign-Language-Translation-Across-Multiple-Languages/assets/119057806/015cede5-4949-45bf-8036-583095a56274)
 ![image](https://github.com/SiddharthaChakrabarty/Sign-Language-Translation-Across-Multiple-Languages/assets/119057806/16c7a978-0e0e-488c-b8f8-9d03312f5cad)
 ![image](https://github.com/SiddharthaChakrabarty/Sign-Language-Translation-Across-Multiple-Languages/assets/119057806/6a9851da-3be9-4ca6-98cb-b36ce11a288d)
-![image](https://github.com/SiddharthaChakrabarty/Sign-Language-Translation-Across-Multiple-Languages/assets/119057806/6dd1cffe-ee64-44ce-a2f5-5caf94f7dbdd)
+![WhatsApp Image 2024-02-06 at 8 22 46 PM](https://github.com/SiddharthaChakrabarty/Sign-Language-Translation-Across-Multiple-Languages/assets/126079866/30116616-2e6c-4c90-bc40-577eea585756)
+![WhatsApp Image 2024-02-06 at 8 22 46 PM (1)](https://github.com/SiddharthaChakrabarty/Sign-Language-Translation-Across-Multiple-Languages/assets/126079866/9cd10392-5df0-4173-8684-1a472765e0c9)
+![WhatsApp Image 2024-02-06 at 8 22 47 PM](https://github.com/SiddharthaChakrabarty/Sign-Language-Translation-Across-Multiple-Languages/assets/126079866/b656ada8-8dff-4d7d-ac76-bcc4c0276000)
+
+
 
 
 ## Features
