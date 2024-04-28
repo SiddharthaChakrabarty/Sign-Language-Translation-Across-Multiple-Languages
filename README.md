@@ -66,7 +66,7 @@ This project aims to provide a real-time sign language translation system using 
 
 For any questions or feedback, feel free to reach out:
 
-- Siddhartha Chakrabarty - [GitHub](https://github.com/SiddharthaChakrabarty) | [LinkedIn](www.linkedin.com/in/siddharthachakrabarty)
+- Siddhartha Chakrabarty - [GitHub](https://github.com/SiddharthaChakrabarty) | [LinkedIn](https://www.linkedin.com/in/siddharthachakrabarty)
 - Sneha Jain - [GitHub](https://github.com/JainSneha6) | [LinkedIn](https://www.linkedin.com/in/sneha-jain-473357261/)
 - [Project Repository](https://github.com/SiddharthaChakrabarty/Sign-Language-Translation-Across-Multiple-Languages)
 
